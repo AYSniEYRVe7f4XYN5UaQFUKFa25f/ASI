@@ -1,5 +1,8 @@
 {
   "version": "1.7",
-  "minifix": 0,
-  "download_url": "https://github.com/AYSniEYRVe7f4XYN5UaQFUKFa25f/ASI/releases/latest/download/NightLoader.asi"
+  "minifix": 2,
+  "download_url": {
+    "free": "https://github.com/AYSniEYRVe7f4XYN5UaQFUKFa25f/ASI/releases/latest/download/NightLoader_Free.asi",
+    "paid": "https://github.com/AYSniEYRVe7f4XYN5UaQFUKFa25f/ASI/releases/latest/download/NightLoader_Paid.asi"
+  }
 }
